@@ -1,0 +1,34 @@
+# .gitignore
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python / Scripts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Text Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# IMUNES / Wireshark temporary files
+*.tmp
+*.bak
+
+# GoodNotes specific (if you accidentally drop large sync caches)
+*.goodnotes.zip
