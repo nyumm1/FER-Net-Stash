@@ -1,20 +1,14 @@
 # FER-Net-Stash 🌐
 
-A repo with some self-made materials created to help others and deepen my understanding in networking-based classes!
+A collection of self-made materials, study notes, and references created to help others and deepen understanding across networking courses at FER.
 
-## Repository Structure
+## Structure
 
-The repo is divided into general tool guides and subject-specific course materials:
+* **`00_IMUNES_Guide/` 🚧** – *(Under construction)* Installation guides, starter topologies, and terminal references for IMUNES.
+* **`00_Wireshark_Basics/` 🚧** – *(Under construction)* Essential display filter cheat sheets and sample packet captures (`.pcapng`).
+* **Course Folders** – Subject-specific lecture slides, notes, and lab resources:
+  * **`Kommre2/`\*** – Communication Networks 2 materials, slides, and personal notes.
+  * *Additional courses added as materials are created.*
 
-- **`00_IMUNES_Guide/`**: IMUNES installation setup, basic starter topologies, and terminal how-tos.
-- **`00_Wireshark_Basics/`**: Example PCAPs and cheat sheets for filtering and reading packets.
-- **`Class/`**: Per class materials based on what is needed/available/created.
- 
-## ️ How to Use This Repo
-
-- **IMUNES:** Start with `00_IMUNES_Guide` for environment setup. Open subject-specific `.imn` files via the IMUNES GUI.
-- **Wireshark:** Open `.pcapng` files directly in Wireshark to study traffic without needing to run simulations.
-- **Notes:** All handwritten notes and exam solutions are provided as cross-platform `.pdf` files.
-
-## Contributing
-Contributions are welcome! Fork the project, create a feature branch (`git checkout -b lol-branch`), commit your files, and open a Pull Request.
+---
+*\* Active course / ongoing semester*
