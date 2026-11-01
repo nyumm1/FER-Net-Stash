@@ -9,6 +9,7 @@ A collection of self-made materials, study notes, and references created to help
 * **Course Folders** - Subject-specific lecture slides, notes, and lab resources:
   * **`Kommre2/`\*** - Communication Networks 2 materials, slides, and personal notes.
   * **`Kommre1/`** - Communication Networks 1 materials, slides and personal notes.
+  * **`JPM/`\*** - Public Mobile Networks scripts and slides
   * *Additional courses added as materials are created.*
 
 ---
